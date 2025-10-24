@@ -1,9 +1,71 @@
-.main-page-title{
-    color: red;
+*{
+    margin: 0;
+    padding: 0;
+}
+
+footer{
+    margin-top: 8rem;
+    
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+
+    background-color: #e3e3e3;
     text-align: center;
 }
 
-.main-page-logo{
-    height: 20px;
-    width: 20px;
+.footer-table{
+    width: 50%; /* Or any specific width you desire */
+    margin: auto;
 }
+
+/* index.html css */
+
+.main-page-title{
+    color: red;
+    text-align: center;
+    margin-right: 2rem;
+}
+
+.main-page-logo{
+    height: 5rem;
+    width: 5rem;
+}
+
+.links-formatting .nav-item {
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+  font-size: 1.25rem;
+}
+
+.carousel-item img {
+    height: 55rem;
+    object-fit: cover;
+    object-position: center;
+}
+
+.mighty-carousel-of-doom{
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.carousel-item .carousel-caption{
+    background-color: black;
+    font-size: 1.5rem;
+    background-color: rgba(0, 0, 0, 0.4);
+    
+    padding: 1rem 2rem;
+}
+
+.o
+
+/* pizza.html css */
+
+.pizza-page-title{
+    color: blue;
+    text-align: center;
+    margin: 2rem 5rem;
+}
+
